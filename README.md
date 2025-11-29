@@ -1,4 +1,4 @@
-# 💊 Aarogya Setu : Elder-Friendly Medication Adherence PWA
+# Aarogya Setu : Elder-Friendly Medication Adherence PWA
 
 A production-ready, Hindi-first medication adherence web application designed exclusively for elderly users in India.
 

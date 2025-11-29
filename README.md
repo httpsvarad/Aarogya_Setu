@@ -1,4 +1,4 @@
-# 💊 Aarogya Setu - Elder-Friendly Medication Adherence PWA
+# 💊 Aarogya Setu : Elder-Friendly Medication Adherence PWA
 
 A production-ready, Hindi-first medication adherence web application designed exclusively for elderly users in India.
 
@@ -326,14 +326,6 @@ We welcome contributions! Here's how:
 
 ---
 
-## 📝 License
-
-[Your License Here]
-
----
-
-## 🙏 Acknowledgments
-
 ### Technologies
 - **Supabase** - Amazing backend platform
 - **Gemini AI** - Powerful vision AI
@@ -359,7 +351,7 @@ Built for elderly users in India who deserve better healthcare technology.
 - OCR not working → [PRESCRIPTION_FIX_SUMMARY.md](PRESCRIPTION_FIX_SUMMARY.md)
 
 ### Contact
-[Your contact information]
+varad.manegopale28@gmail.com
 
 ---
 
@@ -478,46 +470,6 @@ Built for elderly users in India who deserve better healthcare technology.
 - ✅ Troubleshooting guide
 - ✅ Complete API docs
 - ✅ Code comments
-
----
-
-## ✅ Final Checklist
-
-Before considering the app "done":
-
-**MVP Features:**
-- [x] User can sign up
-- [x] User can add medications
-- [x] User can create reminders
-- [x] Data persists in database
-- [x] UI is elderly-friendly
-- [x] Hindi language support
-- [x] Voice feedback works
-
-**Production Ready:**
-- [x] Error handling
-- [x] Security (RLS)
-- [x] Documentation
-- [ ] Real OCR (optional now)
-- [ ] Phone calls (optional now)
-- [ ] Testing with users
-- [ ] Performance optimization
-
----
-
-## 🎉 Success!
-
-Your Aarogya Setu app is **production ready** for testing!
-
-**Next steps:**
-1. ✅ Test with mock data
-2. ✅ Create reminders
-3. ✅ Verify database persistence
-4. 🔜 Add Gemini API (optional)
-5. 🔜 Add Twilio calls (optional)
-6. 🔜 Test with real users
-
-**The app works fully functional right now. Add APIs when ready for real prescriptions and phone calls!**
 
 ---
 
